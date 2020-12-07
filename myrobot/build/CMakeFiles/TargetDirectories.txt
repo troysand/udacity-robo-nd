@@ -1,3 +1,0 @@
-/home/robond/myrobot/build/CMakeFiles/edit_cache.dir
-/home/robond/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/robond/myrobot/build/CMakeFiles/hello.dir
