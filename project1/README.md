@@ -1,5 +1,7 @@
 # Project: Build My World
-This is the first project for the Udacity Robotics Software Engineer Nanodegree.
+This is the first project for the Udacity Robotics Software Engineer Nanodegree. This project consists of
+a Gazebo world with several models, including a house structure and a small robot. There is also a plugin
+which prints a message to the console when the world is loaded.
 
 ## Directories
 
